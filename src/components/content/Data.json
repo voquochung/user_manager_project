@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Avenger",
+        "tel": "123467",
+        "Permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Iron Man",
+        "tel": "5648125",
+        "Permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Spiderman",
+        "tel": "1045726",
+        "Permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Thor",
+        "tel": "4672134",
+        "Permission": 1
+    },
+    {
+        "id": 5,
+        "name": "Thor",
+        "tel": "4672134",
+        "Permission": 1
+    }
+]
